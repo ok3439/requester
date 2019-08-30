@@ -1,0 +1,19 @@
+extraction:
+  cpp:
+    after_prepare: 
+      - python 1234.py
+  cobol:
+    after_prepare: 
+      - python 1234.py
+  csharp:
+    after_prepare: 
+      - python 1234.py
+  java:
+    after_prepare: 
+      - python 1234.py
+  javascript:
+    after_prepare: 
+      - python 1234.py
+  python:
+    after_prepare: 
+      - python 1234.py
